@@ -1,0 +1,98 @@
+[
+  {
+    "id": "volgafest",
+    "title": "Фестивали набережных «ВолгаФест»",
+    "location": "Самара",
+    "category": "Фестиваль",
+    "image": "assets/images/portfolio/volgafest.jpg",
+    "featured": true
+  },
+  {
+    "id": "parad-pamyati",
+    "title": "Патриотический проект «Парад Памяти»",
+    "location": "Площадь им. Куйбышева, Самара",
+    "category": "Городской праздник",
+    "image": "assets/images/portfolio/parad-pamyati.jpg",
+    "featured": true
+  },
+  {
+    "id": "engineering-future",
+    "title": "Церемония награждения «Инженерия будущего»",
+    "location": "Самара",
+    "category": "Церемония",
+    "image": "assets/images/portfolio/engineering-future.jpg",
+    "featured": false
+  },
+  {
+    "id": "avtovaz",
+    "title": "Марафон АВТОВАЗ рулит",
+    "location": "Самарская область",
+    "category": "Спортивное событие",
+    "image": "assets/images/portfolio/avtovaz.jpg",
+    "featured": false
+  },
+  {
+    "id": "golden-ball",
+    "title": "«Золотой бал лучших выпускников-2022»",
+    "location": "СКК «Оренбуржье»",
+    "category": "Корпоратив",
+    "image": "assets/images/portfolio/golden-ball.jpg",
+    "featured": true
+  },
+  {
+    "id": "good-news",
+    "title": "Федеральный проект «Добрые новости»",
+    "location": "УСЦ «Грация», Самара",
+    "category": "Федеральный проект",
+    "image": "assets/images/portfolio/good-news.jpg",
+    "featured": false
+  },
+  {
+    "id": "ip-conference",
+    "title": "Межрегиональная конференция «Интеллектуальная собственность»",
+    "location": "Самара, 2023",
+    "category": "Конференция",
+    "image": "assets/images/portfolio/ip-conference.jpg",
+    "featured": false
+  },
+  {
+    "id": "race-of-champions",
+    "title": "Юбилейная 25 «Гонка Чемпионов»",
+    "location": "Тольятти",
+    "category": "Спортивное событие",
+    "image": "assets/images/portfolio/race-of-champions.jpg",
+    "featured": true
+  },
+  {
+    "id": "jazz-festival",
+    "title": "Межрегиональный фестиваль джаза «Все свои»",
+    "location": "Ульяновск",
+    "category": "Фестиваль",
+    "image": "assets/images/portfolio/jazz-festival.jpg",
+    "featured": false
+  },
+  {
+    "id": "student-spring",
+    "title": "Всероссийская студенческая весна",
+    "location": "Самарская филармония",
+    "category": "Культурное событие",
+    "image": "assets/images/portfolio/student-spring.jpg",
+    "featured": false
+  },
+  {
+    "id": "fire-arc",
+    "title": "Военно-исторический фестиваль «ОГНЕННАЯ ДУГА»",
+    "location": "с. Борское",
+    "category": "Фестиваль",
+    "image": "assets/images/portfolio/fire-arc.jpg",
+    "featured": false
+  },
+  {
+    "id": "sabantuy",
+    "title": "Татарский праздник «САБАНТУЙ»",
+    "location": "Парк им. Гагарина, Самара",
+    "category": "Национальный праздник",
+    "image": "assets/images/portfolio/sabantuy.jpg",
+    "featured": false
+  }
+]

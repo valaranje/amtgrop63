@@ -1,0 +1,7 @@
+{
+  "name": "amt-group",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AMT-GROUP — event equipment rental website",
+  "type": "module"
+}
